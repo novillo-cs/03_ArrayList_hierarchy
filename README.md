@@ -1,4 +1,4 @@
-# 04 ArrayList Hierarchy
+# Lab 04 - ArrayList Hierarchy
 
 Full Name:
 
