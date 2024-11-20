@@ -1,6 +1,5 @@
-# 03_ArrayList_hierarchy
+# 04 ArrayList Hierarchy
 
-* Firs Name:
-* Last Name:
+* Full Name:
 * Period:
-* Github username:
+* Email:
